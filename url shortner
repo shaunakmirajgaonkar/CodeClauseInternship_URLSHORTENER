@@ -13,3 +13,7 @@ short_link = shortener.tinyurl.short(long_link)
 
 
 print(short_link)
+
+Output-
+long_link= https://www.amazon.in/Levis-Graphic-Regular-T-Shirt-16960-0932_Poppy/dp/B0BJZQLGNG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nVx7cV0JmQAc_ls-kljbXW9ERcBYRPswl6uxT1gVVx5cPtZb0eIMtR5tlsxgzHUuBw05bqiUy7WNZCi_dBe_PXEiFS0hBBRToovxSmN-3UmG-ad_FF-8YaH_F5SKEKYhFht3twyXvTDeGjmGs
+short_link=https://rb.gy/pw78h0
